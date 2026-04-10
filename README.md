@@ -1,8 +1,3 @@
-# Arduino Projects by Shamil K
-
-This repository contains my Arduino-based embedded projects.
-
-## 📂 Projects
 
 ### 🔌 [IC Tester](https://github.com/shamilslk/Arduino-Projects/tree/main/IC_Tester)
 A simple and effective tool to test basic digital logic ICs (7400 series) using an Arduino UNO, LCD, and I2C keypad.  
