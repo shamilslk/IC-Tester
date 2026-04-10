@@ -1,5 +1,5 @@
 
-### 🔌 [IC Tester](https://github.com/shamilslk/Arduino-Projects/tree/main/IC_Tester)
+# 🔌 [IC Tester](https://github.com/shamilslk/Arduino-Projects/tree/main/IC_Tester)
 A simple and effective tool to test basic digital logic ICs (7400 series) using an Arduino UNO, LCD, and I2C keypad.  
 Displays pass/fail results on the screen and/or serial monitor.
 
